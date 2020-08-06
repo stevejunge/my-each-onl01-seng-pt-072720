@@ -3,7 +3,7 @@ def my_each(collection)
  while counter < collection.size
  yield(collection[count])
  count += 1
-collection
-end
 
+end
+collection
 end
